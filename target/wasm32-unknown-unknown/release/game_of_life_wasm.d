@@ -1,0 +1,1 @@
+C:\Users\Obama\Desktop\github\game-of-life-wasm\target\wasm32-unknown-unknown\release\game_of_life_wasm.wasm: C:\Users\Obama\Desktop\github\game-of-life-wasm\src\lib.rs C:\Users\Obama\Desktop\github\game-of-life-wasm\src\utils.rs
